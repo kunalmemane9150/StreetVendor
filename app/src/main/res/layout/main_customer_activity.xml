@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.drawerlayout.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/drawer_layout"
+    tools:context=".MainCustomerActivity"
+    android:fitsSystemWindows="true"
+    tools:openDrawer="start">
+
+
+  <!-- navigation menu -->
+  <com.google.android.material.navigation.NavigationView
+      android:id="@+id/nav_view"
+      android:layout_width="wrap_content"
+      android:layout_height="match_parent"
+      app:headerLayout="@layout/drawer_header_customer"
+      app:menu="@menu/main_menu_customer"
+      android:layout_gravity="start"/>
+
+    <!--  main dashboard screen-->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:elevation="2dp">
+
+                      <RelativeLayout
+                          android:layout_width="match_parent"
+                          android:layout_height="match_parent">
+
+                        <ImageButton
+                            android:id="@+id/drawerNav"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerVertical="true"
+                            android:background="@drawable/ic_menu"
+                            android:contentDescription="@null" />
+
+                          <TextView
+                              android:id="@+id/toolbarNameTv"
+                              android:layout_width="wrap_content"
+                              android:layout_height="wrap_content"
+                              android:layout_centerInParent="true"
+                              android:layout_marginStart="20dp"
+                              android:text="Street Vendor"
+                              android:textColor="@color/black"
+                              android:textSize="18sp"
+                              android:textStyle="bold" />
+
+
+
+                      </RelativeLayout>
+
+        </androidx.appcompat.widget.Toolbar>
+
+        <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/toolbar"
+        android:orientation="vertical"
+        android:layout_marginTop="8dp">
+
+      <LinearLayout
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:orientation="vertical"
+          android:padding="6dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="UselessParent">
+
+          <TextView
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:text="Vendors"
+              android:textSize="16sp"
+              android:textColor="@color/primary_color"
+              android:fontFamily="@font/poppins_bold"/>
+
+          <TextView
+              android:id="@+id/seeAllShops"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_alignParentEnd="true"
+              android:layout_centerVertical="true"
+              android:fontFamily="@font/poppins_light"
+              android:text="View All"
+              android:textSize="16sp" />
+
+        </RelativeLayout>
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/vendorListRv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+      </LinearLayout>
+
+    </LinearLayout>
+    </RelativeLayout>
+
+</androidx.drawerlayout.widget.DrawerLayout>
+
+
+<!--<Button-->
+<!--android:id="@+id/logoutBtn"-->
+<!--android:layout_width="wrap_content"-->
+<!--android:layout_height="wrap_content"-->
+<!--android:layout_alignParentEnd="true"-->
+<!--android:layout_centerVertical="true"-->
+<!--android:layout_marginEnd="2dp"-->
+<!--android:background="@drawable/outline_btn_background"-->
+<!--android:text="Logout"-->
+<!--android:textSize="12dp" />-->

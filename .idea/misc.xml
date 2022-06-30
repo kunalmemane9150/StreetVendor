@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/2nd Year/Sem_2/Softwere Eng/CP/New - Copy/StreetVendor/app/src/main/res/drawable/empty_background.xml" value="0.104" />
+        <entry key="..\:/2nd Year/Sem_2/Softwere Eng/CP/New - Copy/StreetVendor/app/src/main/res/drawable/ic_back_arrow_light.xml" value="0.2375" />
+        <entry key="..\:/2nd Year/Sem_2/Softwere Eng/CP/New - Copy/StreetVendor/app/src/main/res/drawable/ic_circle.xml" value="0.2375" />
+        <entry key="..\:/2nd Year/Sem_2/Softwere Eng/CP/New - Copy/StreetVendor/app/src/main/res/drawable/ic_home.xml" value="0.2385" />
+        <entry key="..\:/2nd Year/Sem_2/Softwere Eng/CP/New - Copy/StreetVendor/app/src/main/res/drawable/ic_logout.xml" value="0.2385" />
+        <entry key="..\:/2nd Year/Sem_2/Softwere Eng/CP/New - Copy/StreetVendor/app/src/main/res/drawable/ic_menu.xml" value="0.2385" />
+        <entry key="..\:/2nd Year/Sem_2/Softwere Eng/CP/New - Copy/StreetVendor/app/src/main/res/drawable/ic_person.xml" value="0.2265" />
+        <entry key="..\:/2nd Year/Sem_2/Softwere Eng/CP/New - Copy/StreetVendor/app/src/main/res/drawable/ic_person_dark.xml" value="0.2375" />
+        <entry key="..\:/2nd Year/Sem_2/Softwere Eng/CP/New - Copy/StreetVendor/app/src/main/res/drawable/ic_person_outline.xml" value="0.2385" />
+        <entry key="..\:/2nd Year/Sem_2/Softwere Eng/CP/New - Copy/StreetVendor/app/src/main/res/drawable/ic_phone.xml" value="0.2375" />
+        <entry key="..\:/2nd Year/Sem_2/Softwere Eng/CP/New - Copy/StreetVendor/app/src/main/res/drawable/ic_phone_dark.xml" value="0.2375" />
+        <entry key="..\:/2nd Year/Sem_2/Softwere Eng/CP/New - Copy/StreetVendor/app/src/main/res/drawable/ic_rating.xml" value="0.2385" />
+        <entry key="..\:/2nd Year/Sem_2/Softwere Eng/CP/New - Copy/StreetVendor/app/src/main/res/drawable/ic_send.xml" value="0.2265" />
+        <entry key="..\:/2nd Year/Sem_2/Softwere Eng/CP/New - Copy/StreetVendor/app/src/main/res/drawable/ic_share.xml" value="0.2385" />
+        <entry key="..\:/2nd Year/Sem_2/Softwere Eng/CP/New - Copy/StreetVendor/app/src/main/res/drawable/ic_shopping_outline.xml" value="0.2385" />
+        <entry key="..\:/2nd Year/Sem_2/Softwere Eng/CP/New - Copy/StreetVendor/app/src/main/res/drawable/left_chat.xml" value="0.2265" />
+        <entry key="..\:/2nd Year/Sem_2/Softwere Eng/CP/New - Copy/StreetVendor/app/src/main/res/drawable/line_view.xml" value="0.2375" />
+        <entry key="..\:/2nd Year/Sem_2/Softwere Eng/CP/New - Copy/StreetVendor/app/src/main/res/drawable/right_chat.xml" value="0.2265" />
+        <entry key="..\:/2nd Year/Sem_2/Softwere Eng/CP/New - Copy/StreetVendor/app/src/main/res/layout/activity_all_shops.xml" value="0.23229166666666667" />
+        <entry key="..\:/2nd Year/Sem_2/Softwere Eng/CP/New - Copy/StreetVendor/app/src/main/res/layout/activity_chat.xml" value="0.264" />
+        <entry key="..\:/2nd Year/Sem_2/Softwere Eng/CP/New - Copy/StreetVendor/app/src/main/res/layout/activity_chat_user.xml" value="0.23229166666666667" />
+        <entry key="..\:/2nd Year/Sem_2/Softwere Eng/CP/New - Copy/StreetVendor/app/src/main/res/layout/activity_edit_profile_customer.xml" value="0.23229166666666667" />
+        <entry key="..\:/2nd Year/Sem_2/Softwere Eng/CP/New - Copy/StreetVendor/app/src/main/res/layout/activity_edit_profile_vendor.xml" value="0.23229166666666667" />
+        <entry key="..\:/2nd Year/Sem_2/Softwere Eng/CP/New - Copy/StreetVendor/app/src/main/res/layout/activity_shop_details.xml" value="0.23229166666666667" />
+        <entry key="..\:/2nd Year/Sem_2/Softwere Eng/CP/New - Copy/StreetVendor/app/src/main/res/layout/activity_splash.xml" value="0.264" />
+        <entry key="..\:/2nd Year/Sem_2/Softwere Eng/CP/New - Copy/StreetVendor/app/src/main/res/layout/activity_vendor_todays_menu.xml" value="0.21822916666666667" />
+        <entry key="..\:/2nd Year/Sem_2/Softwere Eng/CP/New - Copy/StreetVendor/app/src/main/res/layout/chat_item.xml" value="0.23125" />
+        <entry key="..\:/2nd Year/Sem_2/Softwere Eng/CP/New - Copy/StreetVendor/app/src/main/res/layout/chat_user_item.xml" value="0.264" />
+        <entry key="..\:/2nd Year/Sem_2/Softwere Eng/CP/New - Copy/StreetVendor/app/src/main/res/layout/custom_toolbar.xml" value="0.23125" />
+        <entry key="..\:/2nd Year/Sem_2/Softwere Eng/CP/New - Copy/StreetVendor/app/src/main/res/layout/drawer_header.xml" value="0.22056159420289856" />
+        <entry key="..\:/2nd Year/Sem_2/Softwere Eng/CP/New - Copy/StreetVendor/app/src/main/res/layout/drawer_header_customer.xml" value="0.23229166666666667" />
+        <entry key="..\:/2nd Year/Sem_2/Softwere Eng/CP/New - Copy/StreetVendor/app/src/main/res/layout/drawer_header_vendor.xml" value="0.2" />
+        <entry key="..\:/2nd Year/Sem_2/Softwere Eng/CP/New - Copy/StreetVendor/app/src/main/res/layout/fragment_create_user_account.xml" value="0.23229166666666667" />
+        <entry key="..\:/2nd Year/Sem_2/Softwere Eng/CP/New - Copy/StreetVendor/app/src/main/res/layout/fragment_create_vendor_account.xml" value="0.23229166666666667" />
+        <entry key="..\:/2nd Year/Sem_2/Softwere Eng/CP/New - Copy/StreetVendor/app/src/main/res/layout/fragment_login.xml" value="0.23229166666666667" />
+        <entry key="..\:/2nd Year/Sem_2/Softwere Eng/CP/New - Copy/StreetVendor/app/src/main/res/layout/item_shop.xml" value="0.23229166666666667" />
+        <entry key="..\:/2nd Year/Sem_2/Softwere Eng/CP/New - Copy/StreetVendor/app/src/main/res/layout/main_customer_activity.xml" value="0.23229166666666667" />
+        <entry key="..\:/2nd Year/Sem_2/Softwere Eng/CP/New - Copy/StreetVendor/app/src/main/res/layout/main_vendor_activit.xml" value="0.23229166666666667" />
+        <entry key="..\:/2nd Year/Sem_2/Softwere Eng/CP/New - Copy/StreetVendor/app/src/main/res/layout/vendor_todays_item.xml" value="0.23125" />
+        <entry key="..\:/2nd Year/Sem_2/Softwere Eng/CP/New - Copy/StreetVendor/app/src/main/res/menu/main_menu.xml" value="0.23229166666666667" />
+        <entry key="..\:/2nd Year/Sem_2/Softwere Eng/CP/New - Copy/StreetVendor/app/src/main/res/menu/main_menu_customer.xml" value="0.23229166666666667" />
+        <entry key="..\:/2nd Year/Sem_2/Softwere Eng/CP/New - Copy/StreetVendor/app/src/main/res/menu/main_menu_vendor.xml" value="0.23229166666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
